@@ -1,0 +1,5 @@
+🔥 REGISTERING ROUTES - Starting route registration...
+📝 REGISTERING ENDPOINT: POST /api/users/create-teacher
+✅ ROUTE REGISTRATION COMPLETED - All routes registered successfully!
+🎯 Teacher creation endpoint should be available at: POST /api/users/create-teacher
+2:39:43 PM [express] serving on port 5000
